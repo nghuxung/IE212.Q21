@@ -1,0 +1,6 @@
+opencv-python
+kafka-python
+ultralytics
+pandas
+pyarrow
+numpy

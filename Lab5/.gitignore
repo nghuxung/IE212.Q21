@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# YOLO model
+*.pt
+
+# Video output
+*.mp4
